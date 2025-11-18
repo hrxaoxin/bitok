@@ -35377,7 +35377,7 @@ J.k0.prototype={
 gC(a){return 0},
 gdV(a){return B.Tb},
 l(a){return String(a)},
-atK(a){return a.requestAccounts()},
+atK(a){return a.requestAccount()},
 atJ(a,b){return a.request(b)},
 ary(a,b,c){return a.on(b,c)},
 ca(a,b){return a.then(b)}}
