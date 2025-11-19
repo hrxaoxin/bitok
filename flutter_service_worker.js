@@ -28,7 +28,7 @@ const RESOURCES = {".leancloud/current_app_id": "d33072be069ba7f6de6c49efbebfefe
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "4b2350e14c6650ba82871f60906437ea",
-"flutter_bootstrap.js": "6283c76ea89288974c3e243dfc6d48e9",
+"flutter_bootstrap.js": "5dd16829ad67ad44b27d63115137e519",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -36,7 +36,7 @@ const RESOURCES = {".leancloud/current_app_id": "d33072be069ba7f6de6c49efbebfefe
 "index.html": "a5dcc1bb99ef8567cbd4d950804c8509",
 "/": "a5dcc1bb99ef8567cbd4d950804c8509",
 "leanengine.yaml": "d4117ee36b98c3705cf4273821beb3cf",
-"main.dart.js": "b029f86bdf355c3445c36d8a697bff88",
+"main.dart.js": "9c56d5f94d4c1783976d3861d4b59568",
 "manifest.json": "84421e8a008b1a4b601ab01b754001eb",
 "version.json": "95c0fc4b105331e1be77e01751e79e75"};
 // The application shell files that are downloaded before a service worker can
